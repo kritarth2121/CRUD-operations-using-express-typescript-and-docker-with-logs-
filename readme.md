@@ -1,6 +1,6 @@
 First run ```npm install``` ,then make the database as given in database.sql and then  then run ```npm start```
 
-## Functionalities i created in the assignment
+## Functionalities i created 
 
 1. Support GET/PUT/POST/DELETE on the API for all Endpoints.
 2. Used .ts for the code.
@@ -13,4 +13,4 @@ First run ```npm install``` ,then make the database as given in database.sql and
 8. Processing the request in terms of saving to DB (postgres) and returning success message to caller.
 9. Containerizing using Docker.
 
-## Have a look at the Kritarth.webm file for video reference
+## Have a look at Kritarth.webm file for video reference
