@@ -1,6 +1,6 @@
 First run ```npm install``` ,then make the database as given in database.sql and then  then run ```npm start```
 
-## Functionalities i created in the assinment
+## Functionalities i created in the assignment
 
 1. Support GET/PUT/POST/DELETE on the API for all Endpoints.
 2. Used .ts for the code.
