@@ -1,12 +1,6 @@
-First run npm install
-then run npm start
+First run ```npm install``` ,then make the database as given in database.sql and then  then run ```npm start```
 
-
-
-
-
-
-
+## Functionalities i created in the assinment
 
 1. Support GET/PUT/POST/DELETE on the API for all Endpoints.
 2. Used .ts for the code.
@@ -18,3 +12,5 @@ then run npm start
 7. There are logs with timestamp stored in logs.txt file.
 8. Processing the request in terms of saving to DB (postgres) and returning success message to caller.
 9. Containerizing using Docker.
+
+## Have a look at the Kritarth.webm file for video reference
