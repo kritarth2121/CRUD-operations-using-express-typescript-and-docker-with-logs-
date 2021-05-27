@@ -17,3 +17,4 @@ then run npm start
 6. Implemented searching of data based on any field search. 
 7. There are logs with timestamp stored in logs.txt file.
 8. Processing the request in terms of saving to DB (postgres) and returning success message to caller.
+9. Containerizing using Docker.
